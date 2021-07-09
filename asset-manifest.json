@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/investment-analyzer/static/css/main.99040a77.chunk.css",
+    "main.js": "/investment-analyzer/static/js/main.2241f62e.chunk.js",
+    "main.js.map": "/investment-analyzer/static/js/main.2241f62e.chunk.js.map",
+    "runtime-main.js": "/investment-analyzer/static/js/runtime-main.be81bce2.js",
+    "runtime-main.js.map": "/investment-analyzer/static/js/runtime-main.be81bce2.js.map",
+    "static/css/2.5459ed71.chunk.css": "/investment-analyzer/static/css/2.5459ed71.chunk.css",
+    "static/js/2.ae9f2106.chunk.js": "/investment-analyzer/static/js/2.ae9f2106.chunk.js",
+    "static/js/2.ae9f2106.chunk.js.map": "/investment-analyzer/static/js/2.ae9f2106.chunk.js.map",
+    "index.html": "/investment-analyzer/index.html",
+    "precache-manifest.7db668507934831910dd7b9b85d3eba8.js": "/investment-analyzer/precache-manifest.7db668507934831910dd7b9b85d3eba8.js",
+    "service-worker.js": "/investment-analyzer/service-worker.js",
+    "static/css/2.5459ed71.chunk.css.map": "/investment-analyzer/static/css/2.5459ed71.chunk.css.map",
+    "static/css/main.99040a77.chunk.css.map": "/investment-analyzer/static/css/main.99040a77.chunk.css.map",
+    "static/js/2.ae9f2106.chunk.js.LICENSE.txt": "/investment-analyzer/static/js/2.ae9f2106.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/investment-analyzer/static/media/montserrat-latin-900italic.a8ec4957.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be81bce2.js",
+    "static/css/2.5459ed71.chunk.css",
+    "static/js/2.ae9f2106.chunk.js",
+    "static/css/main.99040a77.chunk.css",
+    "static/js/main.2241f62e.chunk.js"
+  ]
+}
