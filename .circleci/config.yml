@@ -28,6 +28,7 @@ jobs:
       - persist_to_workspace:
           root: ~/repo
           paths: .
+    parallelism: 2
 
 workflows:
   version: 2
