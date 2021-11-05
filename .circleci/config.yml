@@ -34,7 +34,7 @@ jobs:
     steps:
       - checkout
       - run: yarn install
-      - run: yarn test $(circleci test split $(circleci tests glob tests/**/*_test.ts))
+      - run: yarn test $(circleci test split $(circleci tests glob tests/**/*_test.js))
 
 workflows:
   version: 2
