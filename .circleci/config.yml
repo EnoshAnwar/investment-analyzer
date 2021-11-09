@@ -33,7 +33,7 @@ jobs:
     parallelism: 2
     steps:
       - checkout
-      - run: yarn install
+      - run: yarn test
       - run: yarn test $(circleci test split $(circleci tests glob tests/**/*_test.js))
 
 workflows:
