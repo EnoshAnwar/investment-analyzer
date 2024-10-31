@@ -13,7 +13,6 @@ jobs:
 
     steps:
       - checkout
-
       # Download and cache dependencies
       - restore_cache:
           name: Restore Yarn Package Cache
